@@ -1,0 +1,17 @@
+---
+title: "Pokemon Data"
+author: "Stone Hart"
+date: "10/19/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(knitr)
+library(readxl)
+x <- read_csv("~/Documents/Final Data Project/pokemon data raw.csv")
+
+x
+```
+
