@@ -1,0 +1,3 @@
+# Pokemon-Data-
+For final project
+Pokemon is a Nintendo video game where players create teams of virtual monsters that as of November 2017 has sold 301.5 million units. For my final project, I will be analyzing the spread of pokemon statistics that make each pokemon unique in battle, allowing for a playable and competitive game. In my graph, I will spread their individual hitpoints, attack, special attack, defense, and special defense stats, in order to visually represent the patterns that make each Pokemon their own unique character. In the dataset I am using there are 800 pokemon, all of which have unique statistical spreads to make the game balanced and competitive.
